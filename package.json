@@ -1,0 +1,15 @@
+{
+  "name": "vouch-bot",
+  "version": "1.0.0",
+  "description": "Discord vouch bot with image support",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1"
+  },
+  "author": "Abu Thaeer",
+  "license": "MIT"
+}
